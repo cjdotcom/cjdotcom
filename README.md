@@ -11,6 +11,6 @@
 - **Outros:** Git, Docker, APIs REST, Railway, Threads & Workers
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cjdotcom&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cjdotcom&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cjdotcom&layout=compact&theme=transparent)
 
 
