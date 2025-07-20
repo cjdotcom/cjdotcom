@@ -13,4 +13,4 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cjdotcom&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cjdotcom&layout=compact&theme=transparent&hide_title=true)
 
-
+![8bits](https://sora.chatgpt.com/g/gen_01k0jtpj2cf29v6z8802xrxwgw)
