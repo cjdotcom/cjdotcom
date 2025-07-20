@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou o Gabriel Henrique Silva
 
-🎯 Desenvolvedor de Software focado em soluções práticas e bem arquitetadas.
+🎯 Desenvolvedor de Software focado em soluções práticas e bem arquitetadas.<br>
 🧩 Gosto de resolver problemas reais com código limpo, reutilizável e performático.
 
 ## 🛠️ Tecnologias e Ferramentas
