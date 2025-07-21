@@ -13,4 +13,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cjdotcom&show_icons=true&theme=transparent&hide_title=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cjdotcom&layout=compact&theme=transparent&hide_title=true)
 
-![Snake animation](https://github.com/cjdotcom/cjdotcom/blob/output/github-contribution-grid-snake.svg)
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cjdotcom/cjdotcom/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cjdotcom/cjdotcom/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/cjdotcom/cjdotcom/output/github-contribution-grid-snake.svg">
+</picture>
