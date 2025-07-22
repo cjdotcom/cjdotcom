@@ -10,8 +10,14 @@
 - **Banco de Dados:** PostgreSQL, SQL Server
 - **Outros:** Git, Docker, APIs REST, Railway, AWS
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cjdotcom&show_icons=true&theme=transparent&hide_title=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cjdotcom&layout=compact&theme=transparent&hide_title=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cjdotcom&show_icons=true&theme=transparent&hide_title=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cjdotcom&layout=compact&theme=transparent&hide_title=true" alt="Top Langs" height="165"/>
+</p>
+
+
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cjdotcom&show_icons=true&theme=transparent&hide_title=true) -->
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cjdotcom&layout=compact&theme=transparent&hide_title=true) -->
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cjdotcom/cjdotcom/output/github-contribution-grid-snake-dark.svg">
