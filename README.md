@@ -11,8 +11,8 @@
 - **Outros:** Git, Docker, APIs REST, Railway, AWS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cjdotcom&show_icons=true&theme=transparent&hide_title=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cjdotcom&layout=compact&theme=transparent&hide_title=true" alt="Top Langs" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=cjdotcom&show_icons=true&theme=transparent&hide_title=true" alt="GitHub Stats" height="180" width="500"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cjdotcom&layout=compact&theme=transparent&hide_title=true" alt="Top Langs" height="180" width="450"/>
 </p>
 
 
