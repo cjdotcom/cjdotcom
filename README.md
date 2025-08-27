@@ -1,4 +1,3 @@
-# 👋 Olá! Eu sou o Gabriel.
 <!-- <p align="center"> -->
 <!--   <img src="https://github.com/user-attachments/assets/15f48e28-75f1-42c8-bb8e-573808c03598" alt="me"> -->
 <!--   ![8bits](https://github.com/user-attachments/assets/15f48e28-75f1-42c8-bb8e-573808c03598) -->
