@@ -7,8 +7,8 @@
   <img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/a437b03a-b292-4c06-b7cd-2d7e7a25c762" />
 </p>
   
-🎯 Desenvolvedor de Software focado em soluções práticas e bem arquitetadas.<br>
-🧩 Gosto de resolver problemas reais com código limpo, reutilizável e performático.
+ Desenvolvedor de Software focado em soluções práticas e bem arquitetadas.<br>
+ Gosto de resolver problemas reais com código limpo, reutilizável e performático.
 
 ## Tecnologias e Ferramentas
 
