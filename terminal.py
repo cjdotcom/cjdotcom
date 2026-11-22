@@ -54,9 +54,9 @@ README_EXTRA = """
 """
 
 # Comando final "divertido": (comando, cabeçalhos, valores [(texto, cor)])
-EXTRA = ("docker ps --filter name=cafe",
+EXTRA = ("docker ps",
          ["CONTAINER", "IMAGE", "STATUS", "PORTS"],
-         [("a1b2c3", "text"), ("cafe:coado", "text"), ("Up {years} anos", "green"), ("0.0.0.0:8080", "peach")])
+         [("gabriel", "text"), ("cjdotcom/dev:latest", "text"), ("Up {years} anos", "green"), ("0.0.0.0:443", "peach")])
 # ============================================================================
 
 ASSETS = Path(__file__).resolve().parent.parent / "assets"
