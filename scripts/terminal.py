@@ -79,34 +79,35 @@ SWATCHES = ["red", "peach", "yellow", "green", "teal", "sky", "sapphire", "blue"
 LANG_COLORS = {"Python": "green", "Go": "sapphire", "TypeScript": "blue", "JavaScript": "yellow",
                "Rust": "peach", "Java": "red", "Shell": "teal", "C#": "mauve", "PHP": "lavender"}
 
-# Logo em pixel-art: uma xícara de café fumegante.
-# 's' vapor, 'C' xícara, 'c' sombra da xícara, 'K' café, 'h' asa, 'P' pires
+# Logo em pixel-art: um tríscele (símbolo celta). 'X' = preenchido
 LOGO = [
-    "......s...s.......",
-    ".....s...s........",
-    "......s...s.......",
-    ".....s...s...s....",
-    "......s...s.s.....",
-    ".......s...s......",
-    "..................",
-    ".CCCCCCCCCCCC.....",
-    ".CKKKKKKKKKKC.....",
-    ".CCCCCCCCCCCChhh..",
-    ".CCCCCCCCCCCc..h..",
-    ".CCCCCCCCCCCc..h..",
-    ".CCCCCCCCCCCc..h..",
-    ".CCCCCCCCCCCchhh..",
-    "..CCCCCCCCCCc.....",
-    "..CCCCCCCCCcc.....",
-    "...CCCCCCCcc......",
-    "PPPPPPPPPPPPPPPP..",
-    ".PPPPPPPPPPPPPP...",
+    ".........XXXXXX.........",
+    "........XXX..XXXX.......",
+    ".......XXX.....XX.......",
+    ".......XX..XX...XX......",
+    ".......XX.XXXX..XX......",
+    ".......XX..X.XX.XX......",
+    ".......XX....XX.XX......",
+    "........XXXXXX..XX......",
+    ".........XXXX...XX......",
+    "...............XX.......",
+    "....XXXXX....XXX........",
+    "..XXXXXXXXXXXXX.........",
+    ".XXX.....XXXXX...XXXXX..",
+    ".XX...X...XXXX..XX..XXX.",
+    "XX..XXXXX..XXX.XX....XXX",
+    "XX.XXX.XXX.XX..XX.XX..XX",
+    "XX.XX...XX..XX.XX..XX.XX",
+    "XX..XX..XX..XX..XXXX..XX",
+    "XX......XX..XX...XX...XX",
+    ".XX....XX....XX......XX.",
+    "..XXXXXXX.....XXXXXXXX..",
+    "....XXX........XXXXXX...",
 ]
 
 
 def logo_colors(p):
-    return {"s": p["faint"], "C": p["rosewater"], "c": p["flamingo"], "K": p["peach"],
-            "h": p["rosewater"], "P": p["muted"]}
+    return {"X": "#ffffff" if p["base"] == "#1e1e2e" else "#000000"}
 
 
 # --- dados ------------------------------------------------------------------
@@ -207,7 +208,8 @@ def uptime(created, now):
 
 # --- desenho ----------------------------------------------------------------
 
-W, PAD, FS, LH, CH, CELL = 880, 28, 14, 21, 8.7, 12
+W, PAD, FS, LH, CH = 880, 28, 14, 21, 8.7
+CELL = 216 // len(LOGO[0])   # tamanho de cada pixel do logo
 TYPE = 0.065
 FONT = ("ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, "
         "'Liberation Mono', 'DejaVu Sans Mono', monospace")
