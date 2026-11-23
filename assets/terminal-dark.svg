@@ -53,7 +53,7 @@ text { font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'L
 <text x="284" y="364.2" class="a" style="animation-delay:4.22s"><tspan fill="#fab387" class="b">Uptime</tspan><tspan x="371.0"><tspan fill="#cdd6f4">7 anos, 4 meses</tspan><tspan fill="#7f849c"> no GitHub</tspan></tspan></text>
 <text x="284" y="385.2" class="a" style="animation-delay:4.28s"><tspan fill="#fab387" class="b">Repos</tspan><tspan x="371.0"><tspan fill="#cdd6f4">5 públicos</tspan><tspan fill="#6c7086"> · </tspan><tspan fill="#cdd6f4">6 seguidores</tspan></tspan></text>
 <text x="284" y="406.2" class="a" style="animation-delay:4.34s"><tspan fill="#fab387" class="b">Shell</tspan><tspan x="371.0"><tspan fill="#cdd6f4">zsh</tspan></tspan></text>
-<text x="284" y="427.2" class="a" style="animation-delay:4.40s"><tspan fill="#fab387" class="b">Commits</tspan><tspan x="371.0"><tspan fill="#a6e3a1">847</tspan><tspan fill="#cdd6f4"> em 2026</tspan></tspan></text>
+<text x="284" y="427.2" class="a" style="animation-delay:4.40s"><tspan fill="#fab387" class="b">Commits</tspan><tspan x="371.0"><tspan fill="#a6e3a1">849</tspan><tspan fill="#cdd6f4"> em 2026</tspan></tspan></text>
 <text x="284" y="448.2" class="a" style="animation-delay:4.46s"><tspan fill="#fab387" class="b">Streak</tspan><tspan x="371.0"><tspan fill="#a6e3a1">1 dia</tspan><tspan fill="#6c7086"> · </tspan><tspan fill="#cdd6f4">recorde 11</tspan></tspan></text>
 <text x="284" y="469.2" class="a" style="animation-delay:4.52s"><tspan fill="#fab387" class="b">Langs</tspan></text>
 <clipPath id="bar"><rect x="371.0" y="459.2" width="481.0" height="10" rx="5"/></clipPath><g clip-path="url(#bar)" class="a" style="animation-delay:4.52s"><rect x="371.0" y="459.2" width="481.0" height="10" fill="#a6e3a1"/></g>
